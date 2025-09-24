@@ -1,0 +1,6 @@
+*.tar
+*.deb
+opt/
+usr/
+__pycache__/
+*.pyc
